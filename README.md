@@ -1,5 +1,8 @@
 # Nyaya Chambers - Legal AI Hub & Practice Suite
 
+> 🌐 **Live Production Deployment:** [https://law-five-mu.vercel.app](https://law-five-mu.vercel.app)  
+> 📦 **GitHub Repository:** [https://github.com/AtharvaDhobale/law](https://github.com/AtharvaDhobale/law)
+
 A web-based chamber operations and legal intelligence system designed for advocates and litigants. The platform streamlines litigation tracking, client dossiers, hearing calendars, and document analysis, with support for the new Bharatiya Nyaya Sanhita (BNS, 2023) statutory framework.
 
 ---
@@ -167,14 +170,14 @@ Frontend will be available at: `http://localhost:5180` (or `http://localhost:517
 
 ## 7. Demo Credentials
 
-The database comes pre-seeded with sample user accounts for testing:
+The platform includes instant 1-click demo buttons on the login screen, or you can sign in manually:
 
-| Role | Email | Password |
-|---|---|---|
-| **Advocate (Lawyer)** | `ramesh.law@nyayachambers.in` | `lawyer123` |
-| **Client (Litigant)** | `priya.client@nyayachambers.in` | `client123` |
+| Role | Email | Password | Details |
+|---|---|---|---|
+| **Senior Advocate** | `advocate.sharma@nyayachambers.in` | `lawyer123` | Criminal Law & BNS Defense Suite |
+| **Litigant (Client)** | `client.ramesh@gmail.com` | `client123` | Consumer / Civil Matter Portal |
 
-New accounts can also be created directly via the **Register** tab on the login screen.
+New accounts can also be created directly via the **Create Account** tab on the login screen.
 
 ---
 
