@@ -31,3 +31,11 @@ __pycache__/
 .env
 venv/
 .venv/
+
+# Database & Uploaded files
+*.db
+backend/nyaya_chambers.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+.vercel/
